@@ -1,6 +1,6 @@
 BARBER / SALON WEBSITE
 
-Live Demo:
+Live Demo: https://mahn-bonnie.github.io/barbercuts-hairsalon-website.github.io/
 
 Created using HTML, CSS and JS 
 
