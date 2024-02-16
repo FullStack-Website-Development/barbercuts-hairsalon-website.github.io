@@ -1,9 +1,7 @@
-BARBER / SALON WEBSITE
+# BARBER / SALON WEBSITE
 
-Live Demo: https://mahn-bonnie.github.io/barbercuts-hairsalon-website.github.io/
+# Live Demo: [here](https://mahn-bonnie.github.io/barbercuts-hairsalon-website.github.io/)
 
-Created using HTML, CSS and JS 
-
-Inspired by human styling of hairs and beards
-
-Responsive on desktop and all mobile devices
+ - Created using HTML, CSS and JS
+ - Inspired by human styling of hairs and beards
+ - Responsive on desktop and all mobile devices
